@@ -1,5 +1,5 @@
 
-# Parametric Captured Radius Gauge Set
+# Parametric Captured Radius Gauge Set.
 
 A parametric (OpenSCAD) radius gauge set that uses captured gauge leaves and a novel 'decoupling' layer.
 
